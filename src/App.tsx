@@ -21,7 +21,7 @@ function App() {
         </div>
 
         <h1 className="text-2xl font-bold text-center mb-8">
-          {isSignUp ? 'Create an Account' : 'Welcome Back test'}
+          {isSignUp ? 'Create an Account' : 'Welcome Back test change'}
         </h1>
 
         <form onSubmit={handleSubmit} className="space-y-6">
